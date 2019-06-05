@@ -13,7 +13,9 @@ function nowServing(katzDeliLine) {
 }
 function currentLine(katzDeliLine) {
   let str = '';
-  
+  if(katzDeliLine.length === 0){
+    
+  }
 }
 
 // {
