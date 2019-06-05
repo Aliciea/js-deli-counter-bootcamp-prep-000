@@ -11,10 +11,10 @@ function nowServing(katzDeliLine) {
     }
   }
 }
-function currentLine(katzDeliLine) {
-  if('katzDeliLine' === ["Ada", "Grace"]){
-    return "The line is currently: 1. Ada, 2. Grace";
-  } else if('katzDeliLine === 0'){
-    return "The line is currently empty."
-  }
-}
+// function currentLine(katzDeliLine) {
+//   if('katzDeliLine' === ["Ada", "Grace"]){
+//     return "The line is currently: 1. Ada, 2. Grace";
+//   } else if('katzDeliLine === 0'){
+//     return "The line is currently empty."
+//   }
+// }
