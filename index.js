@@ -11,7 +11,12 @@ function nowServing(katzDeliLine) {
     }
   }
 }
-// function currentLine(katzDeliLine) {
+function currentLine(katzDeliLine) {
+  let str = '';
+  
+}
+
+// {
 //   let str = "";
 //   for(let i = 0; i < katzDeliLine.length; i++){
 //         str.push(katzDeliLine.length[i]);
