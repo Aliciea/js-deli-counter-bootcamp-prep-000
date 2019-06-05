@@ -12,9 +12,9 @@ function nowServing(katzDeliLine) {
   }
 }
 function currentLine(katzDeliLine) {
-  let arr = [];
+  let str = "";
   for(let i = 0; i < katzDeliLine.length; i++){
-        arr.push(`[i+1] + katzDeliLine[i]`);
+        str.push(`i+1 + katzDeliLine[i]`);
     if(katzDeliLine.length === 0){
       return "The line is currently empty."
     }
