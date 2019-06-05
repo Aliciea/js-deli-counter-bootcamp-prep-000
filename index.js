@@ -11,7 +11,16 @@ function nowServing(katzDeliLine) {
     }
   }
 }
-// function currentLine(katzDeliLine) {
+function currentLine(katzDeliLine) {
+  let arr = [];
+  for(let i = 0; i < katzDeliLine.length; i++){
+    if()
+  }
+}
+
+
+
+{
 //   if('katzDeliLine' === ["Ada", "Grace"]){
 //     return "The line is currently: 1. Ada, 2. Grace";
 //   } else if('katzDeliLine === 0'){
