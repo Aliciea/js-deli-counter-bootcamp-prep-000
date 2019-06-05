@@ -23,14 +23,6 @@ function currentLine(katzDeliLine) {
   }
 }
 
-// {
-//   let str = "";
-//    i++){
-//         str.push(katzDeliLine.length[i]);
-//     if(katzDeliLine.length === [i+1]){
-//       return `The line is currently ${katzDeliLine.length === 0}.`;
-//     }
-//   }
-// }
+
 
 
