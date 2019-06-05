@@ -11,14 +11,14 @@ function nowServing(katzDeliLine) {
     }
   }
 }
-function currentLine(katzDeliLine) {
-  let str = "";
-  for(let i = 0; i < katzDeliLine.length; i++){
-        str.push(katzDeliLine.length[i]);
-    if(katzDeliLine.length === [i+1]){
-      return `The line is currently ${katzDeliLine.length === 0}.`;
-    }
-  }
-}
+// function currentLine(katzDeliLine) {
+//   let str = "";
+//   for(let i = 0; i < katzDeliLine.length; i++){
+//         str.push(katzDeliLine.length[i]);
+//     if(katzDeliLine.length === [i+1]){
+//       return `The line is currently ${katzDeliLine.length === 0}.`;
+//     }
+//   }
+// }
 
 
