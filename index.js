@@ -5,7 +5,7 @@ function takeANumber(katzDeli, name) {
 function nowServing(katzDeli) {
   return katzdeli[0].unshift(0);
 }
-function currentLine(katzDeli) {
+function currentLine(katzDeliLine) {
   if('katzDeliLine' === ["Ada", "Grace"]){
     return "The line is currently: 1. Ada, 2. Grace";
   } else if('katzDeliLine === 0'){
