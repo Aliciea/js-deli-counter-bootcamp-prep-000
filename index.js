@@ -3,7 +3,7 @@ function takeANumber(katzDeli, name) {
   return `Welcome, ${name}. You are number ${katzDeli.length} in line.`
 }
 function nowServing(katzDeliLine) {
-  return katzDeliLineli[0].unshift(0);
+  return katzDeliLine[0].unshift(0);
 }
 function currentLine(katzDeliLine) {
   if('katzDeliLine' === ["Ada", "Grace"]){
