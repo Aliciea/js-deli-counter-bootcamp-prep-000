@@ -17,12 +17,12 @@ function currentLine(katzDeliLine) {
     return "The line is currently empty.";
   }
   let arr = [];
-  
+  for(let i = 0; i < katzDeliLine.length; i++);
 }
 
 // {
 //   let str = "";
-//   for(let i = 0; i < katzDeliLine.length; i++){
+//    i++){
 //         str.push(katzDeliLine.length[i]);
 //     if(katzDeliLine.length === [i+1]){
 //       return `The line is currently ${katzDeliLine.length === 0}.`;
