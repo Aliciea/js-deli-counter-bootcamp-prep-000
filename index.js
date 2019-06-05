@@ -12,11 +12,12 @@ function nowServing(katzDeliLine) {
   }
 }
 function currentLine(katzDeliLine) {
-  let str = '';
+  // let str = '';
   if(katzDeliLine.length === 0){
     return "The line is currently empty.";
   }
-  let arr = 
+  let arr = [];
+  
 }
 
 // {
